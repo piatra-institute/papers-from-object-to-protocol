@@ -23,9 +23,6 @@ The deep-research survey that informed this paper considered four candidate thes
 
 The argument is therefore neither anti-technological nor triumphalist. We are not claiming that AI tools complete art, and we are not claiming that they end art. We are claiming that they make explicit a property of art that has been operating, intermittently, for at least a century, and arguably for far longer. What was once visible only at the margins of conceptual art (the certificate, the score, the instruction) becomes mainstream when the artist's deliverable is an executable package and the buyer's possession is a license to instantiate.
 
-The paper proceeds in four registers. The first three sections sketch the historical conditions out of which protocol-based art emerges. Sections 5 through 7 trace three migrations: into score and instruction, into generative code, into latent score. Section 8 formalizes the protocol concept. Section 9 examines legal, market, and aesthetic consequences. Section 10 is a register of objections. The conclusion returns to the question the title poses: what does it mean for a practice, an institution, or an audience when the work is no longer the object?
-
-
 ## 2. Pre-Object Functions
 
 The earliest evidence for human image-making does not depict a stable object-centered practice. It points instead to images embedded in cult, memory, and social coordination, with motives that remain epistemically underdetermined. Reading the modern object intuition backward into prehistory and concluding that cave images were the first paintings in the modern sense is a tempting move that the evidence will not support. They may have been. They may also have been ritual implements, mnemonic technologies, hunting protocols, or vision-supports for altered states. The interpretive frameworks proposed by Lewis-Williams (2002) and Leroi-Gourhan (1964) hold up well as hypotheses and weakly as conclusions. What the archaeology supports is the more cautious claim: image-making at depth was bound to use, place, and rite, in ways that do not reduce to autonomous expression.
@@ -38,7 +35,7 @@ Read against these regimes, the modern object intuition looks plainly local. It 
 
 The pattern matters for the protocol thesis in a precise way. If the work has often been a function-anchored, rule-governed product whose identity is set by canon, ritual, or commission, the modern object-centered configuration is the deviation from a longer rule. Specification has always been operating; it sometimes gets demoted to "preparation" while the object gets promoted to "the art." The historical record makes the modern arrangement look provincial in time, however dominant it became in the institutions of the past two centuries.
 
-Pre-object regimes are not for romanticizing. They were embedded in social orders that we would now reject (slavery, theocracy, dynastic violence). The narrower point is enough: the question "what counts as the work?" has been answered very differently across history, and the answers that pre-date modern expressivism privilege the rule, the place, the function, the rite, the canon. They privilege the specification.
+These regimes invite no nostalgia. They were embedded in social orders we would now reject: slavery, theocracy, dynastic violence. The narrower point is enough. The question "what counts as the work?" has been answered very differently across history, and the answers that pre-date modern expressivism privilege the rule, the place, the function, the rite, the canon. They privilege the specification.
 
 
 ## 3. The Object Becomes Property, Then Genius
@@ -146,7 +143,7 @@ The protocol concept can now be stated more precisely. A *protocol*, in the sens
 
 4. **Editioned.** The protocol determines a population of realizations, finite or infinite, with rules for indexing them. An edition is the protocol's mode of existence in time.
 
-5. **Governed.** The protocol carries explicit rights and use conditions: who may instantiate, under what terms, for what economic purpose, with what attribution. These conditions are part of the work, because they bound what realizations are licit. The license sits inside the ontology, not outside it as paratext.
+5. **Governed.** The protocol carries explicit rights and use conditions: who may instantiate, under what terms, for what economic purpose, with what attribution. These conditions are part of the work, because they bound what realizations are licit. The license sits inside the ontology, a constituent of the work rather than paratext around it.
 
 Each historical migration we have traced added one or more of these properties to the inventory. Pre-object regimes already operated under substrate-relativity, boundedness, and governance, embedded in ritual, canon, and institution; they did not always carry explicit transferability or formal editioning. Score-based art added explicit transferability and formalized boundedness in language. Generative code art added deterministic editioning and made substrate-relativity transparent through inspectable code. Latent score art adds large-scale, model-mediated editioning and forces governance to become elaborate (license, model versioning, training-data attribution).
 
@@ -191,7 +188,7 @@ Reading latent score art well requires reading the substrate. Style is now visib
 The category *latent space*, used carefully, names a real feature of the substrate: the high-dimensional internal representation along which the model interpolates. Used sloppily, it becomes a metaphor that obscures what the model is doing. A protocol-aware criticism resists the metaphorical drift and asks how the protocol uses the substrate's specific representations: what neighborhoods it visits, what attractors it invokes, what regions of the model's distribution it amplifies. The good prompt-score takes account of these features deliberately.
 
 
-## 9. Limits and Counter-Cases
+## 9. Where the Migration Strains: Opacity, Drift, and Dead Platforms
 
 The protocol thesis describes a real migration. It also has limits, and naming them belongs to the same intellectual register as the thesis.
 
@@ -212,11 +209,11 @@ The limits do not invalidate the thesis. They locate it. The migration from obje
 
 The migration this paper describes leaves the art object in place. The object survives. It is rendered, exhibited, framed, and sold. It will continue to be. What changes is the location of the work. In premodern regimes, the work was the function-anchored, rule-governed product whose identity sat in canon and rite. In modern object regimes, the work was the artifact and the artist's hand. In conceptual and score-based art, the work climbed up to the score and the certificate. In generative code art, it moved further into the script and the seed-handling logic. In latent score art, the work is the executable package: prompt, references, model, seeds, edition rules, license.
 
-Said this way, the migration is a recentering rather than a rupture. The object did not disappear; it became one realization among many. The artist's task widens beyond the production of finished artifacts. Increasingly, the artist authors a bounded generative system and the rights that govern it. The collector's possession is not only a thing on the wall; it is also a license to instantiate. The institution's curatorial unit is not only the artifact; it is also the protocol, with its admissible realizations, its conservation conditions, and its governance.
+Said this way, the migration is a recentering rather than a rupture. The object did not disappear; it became one realization among many. The artist's task widens beyond the production of finished artifacts. Increasingly, the artist authors a bounded generative system and the rights that govern it. The collector's possession includes a license to instantiate alongside whatever thing hangs on the wall. The institution's curatorial unit becomes the protocol, with its admissible realizations, its conservation conditions, and its governance, and the artifact is one item it holds.
 
 For an institute like Piatra, the shift reframes practice. The Prism studio's deliverable is the world-generation kit, with its references, its model recommendations, its seed protocols, and its license. The audience renders one realization, or many; each is a performance of the work. The work persists across realizations, in the protocol that governs them.
 
-A reader who finishes this paper might fairly ask whether anything is left of the modern intuition that the artwork is a finished object made by an artist who has poured an inner life into outward form. The answer is yes, with a precise accent. Some works still are that, and will continue to be. Many of the works that matter most in the next decade will sit one layer up. They will be specifications. The interior life of the artist will still be in the work, encoded in a rule rather than in a brushstroke, in a license rather than in a frame, in a protocol rather than in an object. The genealogy in this paper suggests, on balance, that this is art's ordinary historical condition. The object configuration was the exception. The protocol is the longer rule.
+A reader who finishes this paper might fairly ask whether anything is left of the modern intuition that the artwork is a finished object made by an artist who has poured an inner life into outward form. The answer is yes, with a precise accent. Some works still are that, and will continue to be. Many of the works that matter most in the next decade will sit one layer up. They will be specifications. The interior life of the artist will still be in the work, encoded in a rule rather than a brushstroke, in a protocol rather than an object. The genealogy in this paper suggests, on balance, that this is art's ordinary historical condition. The object configuration was the exception. The protocol is the longer rule.
 
 
 ## References
