@@ -63,7 +63,7 @@ John Cage's *4'33"* (1952) is canonical here. The score specifies a duration of 
 
 Fluxus extends this approach into a movement. George Brecht's *Event Scores* (early 1960s) instruct a performer (or a reader, or a viewer) to undertake brief, often domestic actions. La Monte Young's *Composition 1960 #10* reads in full: "Draw a straight line and follow it." Yoko Ono's *Grapefruit* (1964) is a published collection of instruction pieces. The Museum of Modern Art's documentation of Fluxus repeatedly notes that the scores were intended to be performed by anyone with interpretive freedom, and that the score's identity was not exhausted by any particular performance. The protocol is the work; performances are realizations.
 
-Sol LeWitt's wall drawings make the move explicit in a market context. LeWitt (1968) writes that "the idea becomes a machine that makes the art." From 1968 onward, his wall drawings are conceived as instructions, often diagrammatic, to be executed by draftspeople on a designated wall. The collector or institution acquires a certificate of authenticity and the diagrammatic instructions; on installation, the wall drawing is realized by hands other than LeWitt's. SFMOMA's documentation describes LeWitt purchases as involving certificate plus instructions, with the visible drawing executed on site, occasionally re-executed at different locations as the institution changes premises. The Whitney's documentation reaches the same conclusion: the work is the instruction set, the certificate, and the right to realize.
+Sol LeWitt's wall drawings make the move explicit in a market context. LeWitt (1967) writes that "the idea becomes a machine that makes the art." From 1968 onward, his wall drawings are conceived as instructions, often diagrammatic, to be executed by draftspeople on a designated wall. The collector or institution acquires a certificate of authenticity and the diagrammatic instructions; on installation, the wall drawing is realized by hands other than LeWitt's. SFMOMA's documentation describes LeWitt purchases as involving certificate plus instructions, with the visible drawing executed on site, occasionally re-executed at different locations as the institution changes premises. The Whitney's documentation reaches the same conclusion: the work is the instruction set, the certificate, and the right to realize.
 
 Lawrence Weiner's textual works push further still. Many of his pieces are presented as printed sentences ("A 36" x 36" REMOVAL TO THE LATHING OR SUPPORT WALL OF PLASTER OR WALLBOARD FROM A WALL," 1968) that the artist permits to be realized, not realized, or realized differently in different contexts. His "Statement of Intent" leaves these options to the receiver. The work is a textual specification with explicit realization permissions.
 
@@ -76,7 +76,7 @@ The institutions that own and conserve these works have to organize themselves a
 
 ## 5. The Second Migration: Generative Code Art
 
-The second migration begins with practices that delegate realization to procedural systems running on computers. The earliest sustained example is Harold Cohen's AARON program, developed from the late 1960s into the 2010s, which produces drawings autonomously according to rules that Cohen authored and refined over decades. AARON generates the realizations; Cohen authored the system. The work, in any sustained art-historical sense, is the system, with its rule sets, its color logic, and its compositional grammar. Individual prints are realizations.
+The second migration begins with practices that delegate realization to procedural systems running on computers. The earliest sustained example is Harold Cohen's AARON program, developed from the early 1970s into the 2010s, which produces drawings autonomously according to rules that Cohen authored and refined over decades. AARON generates the realizations; Cohen authored the system. The work, in any sustained art-historical sense, is the system, with its rule sets, its color logic, and its compositional grammar. Individual prints are realizations.
 
 Through the 1980s and 1990s, generative practices proliferate in contexts often outside the gallery system: the demoscene, software art, glitch art, evolutionary art, agent-based animation. Galanter (2003) proposes a working definition of generative art as practice in which the artist uses a system (rules, code, randomness, autonomous machines) to produce or contribute substantially to a work. Generative art is therefore continuous with the conceptual and score-based migration, with the substrate moved from human performers and instruction sheets onto procedural systems running on hardware.
 
@@ -256,7 +256,7 @@ Krauss, R. (1986). *The Originality of the Avant-Garde and Other Modernist Myths
 
 Leroi-Gourhan, A. (1964). *Le geste et la parole*. Albin Michel.
 
-LeWitt, S. (1968). Paragraphs on Conceptual Art. *Artforum*, 5(10), 79--83.
+LeWitt, S. (1967). Paragraphs on Conceptual Art. *Artforum*, 5(10), 79--83.
 
 Lewis-Williams, D. (2002). *The Mind in the Cave: Consciousness and the Origins of Art*. Thames and Hudson.
 
@@ -276,7 +276,7 @@ U.S. Copyright Office. (2023). *Copyright Registration Guidance: Works Containin
 
 Vasari, G. (1568). *Le Vite de' più eccellenti pittori, scultori e architettori*. Florence: Giunti.
 
-Weiner, L. (1968). Statement of Intent. Reproduced in *Lawrence Weiner: As Far as the Eye Can See*. Whitney Museum of American Art (2007).
+Weiner, L. (1968). Declaration of Intent. Reproduced in *Lawrence Weiner: As Far as the Eye Can See*. Whitney Museum of American Art (2007).
 
 Young, La M. (1960). *Composition 1960 #10 to Bob Morris*. In *An Anthology of Chance Operations* (J. Mac Low and La M. Young, Eds., 1963).
 
