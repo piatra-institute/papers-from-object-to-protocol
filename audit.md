@@ -2,6 +2,16 @@
 
 Dated log of editorial passes and verification runs. Newest first.
 
+## 2026-09-23 — prose revision
+
+Prose revised against the house standards. Headings: Abstract; 1. Introduction; 2. Images before the autonomous object; 3. Formation of the object configuration; 4. Conceptual and score-based art; 5. Generative code art; 6. Latent score art; 7. Definition of a protocol; 8. Legal, market, and aesthetic consequences (8.1 Legal authorship; 8.2 Market structure; 8.3 Aesthetic ontology); 9. Limitations: opacity, substrate drift, and platform persistence; 10. Conclusion.
+Tic counts before -> after: 'rather than' 19 -> 0; inline ', not X' 5 -> 0; 'this paper/the paper' 8 -> 0; 'That is/This is' sentence starts 5 -> 0; exactly/precisely 1 -> 0; merely/simply 1 -> 0. Abstract about 430 -> 259 words.
+Corrections: section 7 attributed the instruction "draw a straight line and follow it" to a Brecht event score; it is La Monte Young's Composition 1960 #10 (as section 4 already stated). Corrected.
+Removed the reference to "the deep-research survey that informed this paper" (unpublished origin material) and the description of the institute's own Prism studio as an illustrative case; the world-generation kit is kept as an explicitly hypothetical example, and the closing paragraph about the institute's practice is removed.
+Citations: Benjamin (1936), Cage (1961), Brecht (1963), Cohen (1995), Danto (1981), Dickie (1974), Gell (1998), Strathern (1988), Zylinska (2020) were listed but uncited; each is now cited at a point it supports. Greenberg (1960), Krauss (1986), Manovich (2018) now carry years. References section unchanged.
+Not changed: the text calls Weiner's text "Statement of Intent" while the bibliography lists "Declaration of Intent"; both titles are in use for the 1969 text.
+No simulation; no numerical results to audit.
+
 ## 2026-06-13 — voice reform
 
 Voice-reform pass for AI-writing tells.

@@ -1,0 +1,24 @@
+{
+  "pdf_sha256": "01828f2909b56405bd2910454ef4c510dbcaeb1fa53660286e694c7396d7eb64",
+  "page_count": 16,
+  "pages_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "all_pages_inspected": true,
+  "notes": "All 16 pages inspected after the prose revision; table, lists and references render cleanly; the paper has no figures. Metadata-only rebuild: the web blurb in metadata.yaml, a hashed build input, changed, so the PDF was re-rendered (c366ec97f4c2 to 01828f2909b5); the rendered text is byte-for-byte identical and no page was re-inspected."
+}

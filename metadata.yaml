@@ -1,14 +1,33 @@
 slug: from-object-to-protocol
 web_slug: from-object-to-protocol
-title: "From Object to Protocol: A Genealogy of the Artwork as Specification"
-header: "From Object to Protocol"
-created: "2026-05"        # inception month (drives YYYY/MM archive path)
-date: "May 2026"            # publication month (shown on web)
+title: 'From Object to Protocol: A Genealogy of the Artwork as Specification'
+header: From Object to Protocol
+created: 2026-05
+date: May 2026
 paper_dir: paper
 has_simulation: false
-claims_target: none      # results.json | claim-ledger | none
+claims_target: none
 repo: git@github.com:piatra-institute/papers-from-object-to-protocol.git
 github: https://github.com/piatra-institute/papers-from-object-to-protocol
-status: published              # draft | built | published
-abstract: |-
-  Across the long history of art the locus of the work has migrated, in successive episodes, from the finished object toward the rule-bound specification. The intuition that an artwork is a singular artifact is a late and historically specific configuration; older regimes treated images as ritual instruments, dynastic technologies, devotional interfaces, and workshop products. Conceptual and score-based art relocated the work into the certificate, the score, the instruction. Generative code art added editioned variability through deterministic seeds. A third, still emerging migration extends the same logic to model-mediated work, where the artwork resides in an executable package of prompts, reference assets, model recommendations, seeds, and licenses, navigated by a user and realized by a model. We name this form latent score art and are explicit about its evidential status: the first two migrations rest on a deep inventory of conserved works, while the third is grounded in a small number of real, externally verifiable instances (the trained-model and protocol works of Holly Herndon and Mat Dryhurst, and the autonomous system Botto) in which the generative system rather than any single output is the exhibited work, alongside in-development and illustrative cases. We present it as an emerging category and an extrapolation of the protocol logic rather than a settled phenomenon, formalize a protocol as a substrate-relative, bounded, transferable, editioned, governed specification, and trace the consequences for legal authorship, market structure, and aesthetic ontology.
+status: published
+abstract: The identity of an artwork has shifted, in successive episodes, from the finished object toward
+  the rule-bound specification. The view that an artwork is a singular artifact expressing an artist's
+  interiority is a late and historically specific configuration. Earlier regimes treated images as ritual
+  instruments, dynastic technologies, devotional interfaces, and workshop products whose identity was
+  fixed by function and rule. Twentieth-century conceptual and score-based art relocated the work into
+  the certificate, the score, and the instruction; generative code art added editioned variability through
+  deterministic seeds. A third, emerging migration extends the same structure to model-mediated work,
+  in which the artwork is an executable package of prompts, reference assets, model recommendations, seed
+  ranges, and licenses, realized by a model. We call this form *latent score art* and treat it as a subcategory
+  of AI art. The first two migrations rest on a large inventory of named, conserved works; the third rests
+  on a few verifiable instances (the trained-model and protocol works of Holly Herndon and Mat Dryhurst,
+  and the autonomous system Botto) and on hypothetical cases, and is presented as an emerging category.
+  We define a *protocol* as a specification that is substrate-relative, bounded, transferable, editioned,
+  and governed, and show how each migration adds properties to this inventory. On the legal side, authorship
+  remains narrowly defined while the art-historical account of authorship widens, and the two should be
+  kept distinct. Markets must handle model drift, changing governance terms, and uncertainty about what
+  a buyer owns. Criticism must treat training corpora, model versions, and prompt grammar as properties
+  of the medium.
+web_blurb: Traces how the identity of an artwork moved from finished object to rule-bound specification,
+  through score-based and generative code art to model-mediated packages, and defines a protocol as substrate-relative,
+  bounded, transferable, editioned, and governed.
