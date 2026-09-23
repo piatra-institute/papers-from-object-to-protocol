@@ -1,0 +1,437 @@
+# CSL references with stable IDs; cite with Pandoc [@id] syntax.
+# Migrated from the legacy inline bibliography; entries were entered by hand and checked against
+# publisher, institution or DOI records where available. Provenance per entry is in sources.md.
+references:
+- id: artblocksnd
+  type: webpage
+  title: Art Blocks platform documentation
+  author:
+  - literal: Art Blocks
+  URL: https://docs.artblocks.io
+  issued:
+    literal: n.d.
+  accessed: &id001
+    date-parts:
+    - - 2026
+      - 9
+      - 23
+- id: bejerano2025
+  type: article-newspaper
+  title: 'Se venden y se compran instrucciones para las IAs: así son los mercados de prompts'
+  author:
+  - family: Bejerano
+    given: Pablo G.
+  language: es
+  container-title: El País
+  URL: https://elpais.com/tecnologia/2025-04-08/se-venden-y-se-compran-instrucciones-para-las-ias-asi-son-los-mercados-de-prompts.html
+  issued:
+    date-parts:
+    - - 2025
+      - 4
+      - 8
+  accessed: *id001
+- id: belting1994
+  type: book
+  title: 'Likeness and Presence: A History of the Image before the Era of Art'
+  author:
+  - family: Belting
+    given: Hans
+  translator:
+  - family: Jephcott
+    given: Edmund
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  issued:
+    date-parts:
+    - - 1994
+- id: benjamin1936
+  type: chapter
+  title: The Work of Art in the Age of Mechanical Reproduction
+  author:
+  - family: Benjamin
+    given: Walter
+  editor:
+  - family: Arendt
+    given: Hannah
+  container-title: Illuminations
+  publisher: Harcourt, Brace & World
+  publisher-place: New York
+  original-date:
+    date-parts:
+    - - 1936
+  issued:
+    date-parts:
+    - - 1968
+- id: bourdieu1984
+  type: book
+  title: 'Distinction: A Social Critique of the Judgement of Taste'
+  author:
+  - family: Bourdieu
+    given: Pierre
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1984
+- id: bourdieu1996
+  type: book
+  title: 'The Rules of Art: Genesis and Structure of the Literary Field'
+  author:
+  - family: Bourdieu
+    given: Pierre
+  publisher: Stanford University Press
+  publisher-place: Stanford, CA
+  DOI: 10.1515/9781503615861
+  issued:
+    date-parts:
+    - - 1996
+- id: brecht1963
+  type: book
+  title: Water Yam
+  author:
+  - family: Brecht
+    given: George
+  publisher: Fluxus
+  publisher-place: Wiesbaden
+  issued:
+    date-parts:
+    - - 1963
+- id: cage1961
+  type: book
+  title: 'Silence: Lectures and Writings'
+  author:
+  - family: Cage
+    given: John
+  publisher: Wesleyan University Press
+  publisher-place: Middletown, CT
+  issued:
+    date-parts:
+    - - 1961
+- id: cohen1995
+  type: article-journal
+  title: The Further Exploits of AARON, Painter
+  author:
+  - family: Cohen
+    given: Harold
+  container-title: Stanford Humanities Review
+  volume: '4'
+  issue: '2'
+  page: 141-158
+  issued:
+    date-parts:
+    - - 1995
+- id: danto1981
+  type: book
+  title: 'The Transfiguration of the Commonplace: A Philosophy of Art'
+  author:
+  - family: Danto
+    given: Arthur C.
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1981
+- id: dickie1974
+  type: book
+  title: 'Art and the Aesthetic: An Institutional Analysis'
+  author:
+  - family: Dickie
+    given: George
+  publisher: Cornell University Press
+  publisher-place: Ithaca, NY
+  issued:
+    date-parts:
+    - - 1974
+- id: duve1996
+  type: book
+  title: Kant after Duchamp
+  author:
+  - family: de Duve
+    given: Thierry
+  publisher: MIT Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1996
+- id: fxhashnd
+  type: webpage
+  title: '<span class="nocase">fxhash</span> documentation: open-form generative art'
+  author:
+  - literal: <span class="nocase">fxhash</span>
+  URL: https://docs.fxhash.xyz
+  issued:
+    literal: n.d.
+  accessed: *id001
+- id: galanter2003
+  type: paper-conference
+  title: What Is Generative Art? Complexity Theory as a Context for Art Theory
+  author:
+  - family: Galanter
+    given: Philip
+  container-title: Proceedings of the 6th Generative Art Conference (GA2003)
+  publisher-place: Milan
+  issued:
+    date-parts:
+    - - 2003
+- id: gell1998
+  type: book
+  title: 'Art and Agency: An Anthropological Theory'
+  author:
+  - family: Gell
+    given: Alfred
+  publisher: Clarendon Press
+  publisher-place: Oxford
+  issued:
+    date-parts:
+    - - 1998
+- id: greenberg1960
+  type: chapter
+  title: Modernist Painting
+  author:
+  - family: Greenberg
+    given: Clement
+  editor:
+  - family: O'Brian
+    given: John
+  container-title: 'The Collected Essays and Criticism, Volume 4: Modernism with a Vengeance, 1957–1969'
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  original-date:
+    date-parts:
+    - - 1960
+  issued:
+    date-parts:
+    - - 1993
+- id: krauss1986
+  type: book
+  title: The Originality of the Avant-Garde and Other Modernist Myths
+  author:
+  - family: Krauss
+    given: Rosalind E.
+  publisher: MIT Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1986
+- id: leroigourhan1964
+  type: book
+  title: Le geste et la parole
+  author:
+  - family: Leroi-Gourhan
+    given: André
+  language: fr
+  publisher: Albin Michel
+  publisher-place: Paris
+  issued:
+    date-parts:
+    - - 1964
+- id: lewiswilliams2002
+  type: book
+  title: 'The Mind in the Cave: Consciousness and the Origins of Art'
+  author:
+  - family: Lewis-Williams
+    given: David
+  publisher: Thames and Hudson
+  publisher-place: London
+  issued:
+    date-parts:
+    - - 2002
+- id: lewitt1967
+  type: article-magazine
+  title: Paragraphs on Conceptual Art
+  author:
+  - family: LeWitt
+    given: Sol
+  container-title: Artforum
+  volume: '5'
+  issue: '10'
+  page: 79-83
+  issued:
+    date-parts:
+    - - 1967
+      - 6
+- id: manovich2018
+  type: book
+  title: AI Aesthetics
+  author:
+  - family: Manovich
+    given: Lev
+  publisher: Strelka Press
+  publisher-place: Moscow
+  issued:
+    date-parts:
+    - - 2018
+- id: momand
+  type: webpage
+  title: Fluxus collection documentation
+  author:
+  - literal: Museum of Modern Art
+  issued:
+    literal: n.d.
+  accessed: *id001
+- id: ono1964
+  type: book
+  title: 'Grapefruit: A Book of Instructions and Drawings'
+  author:
+  - family: Ono
+    given: Yoko
+  publisher: Wunternaum Press
+  publisher-place: Tokyo
+  issued:
+    date-parts:
+    - - 1964
+- id: promptbasend
+  type: webpage
+  title: PromptBase prompt marketplace
+  author:
+  - literal: PromptBase
+  URL: https://promptbase.com
+  issued:
+    literal: n.d.
+  accessed: *id001
+- id: serpentine2024
+  type: webpage
+  title: 'Holly Herndon & Mat Dryhurst: The Call'
+  author:
+  - literal: Serpentine Galleries
+  container-title: Serpentine North, 4 October 2024 – 2 February 2025
+  URL: https://www.serpentinegalleries.org/whats-on/holly-herndon-mat-dryhurst-the-call/
+  issued:
+    date-parts:
+    - - 2024
+  accessed: *id001
+- id: sfmomand
+  type: webpage
+  title: Sol LeWitt wall drawing documentation
+  author:
+  - literal: San Francisco Museum of Modern Art
+  issued:
+    literal: n.d.
+  accessed: *id001
+- id: sothebys2024
+  type: webpage
+  title: 'Exorbitant Stage: Botto, a Decentralized AI Artist'
+  author:
+  - literal: Sotheby's
+  container-title: Auction, New York, 17–24 October 2024
+  URL: https://www.sothebys.com/en/buy/auction/2024/exorbitant-stage-botto-a-decentralized-ai-artist
+  issued:
+    date-parts:
+    - - 2024
+  accessed: *id001
+- id: strathern1988
+  type: book
+  title: 'The Gender of the Gift: Problems with Women and Problems with Society in Melanesia'
+  author:
+  - family: Strathern
+    given: Marilyn
+  publisher: University of California Press
+  publisher-place: Berkeley
+  DOI: 10.1525/california/9780520064232.001.0001
+  issued:
+    date-parts:
+    - - 1988
+- id: uscopyright2023
+  type: article-journal
+  title: 'Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence'
+  author:
+  - literal: U.S. Copyright Office
+  container-title: Federal Register
+  volume: '88'
+  issue: '51'
+  page: 16190-16194
+  URL: https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence
+  issued:
+    date-parts:
+    - - 2023
+      - 3
+      - 16
+- id: vasari1550
+  type: book
+  title: Le vite de' più eccellenti architetti, pittori, et scultori italiani
+  author:
+  - family: Vasari
+    given: Giorgio
+  language: it
+  publisher: Lorenzo Torrentino
+  publisher-place: Florence
+  issued:
+    date-parts:
+    - - 1550
+- id: vasari1568
+  type: book
+  title: Le vite de' più eccellenti pittori, scultori e architettori
+  author:
+  - family: Vasari
+    given: Giorgio
+  language: it
+  publisher: Giunti
+  publisher-place: Florence
+  issued:
+    date-parts:
+    - - 1568
+- id: weiner1968
+  type: chapter
+  title: Declaration of Intent
+  author:
+  - family: Weiner
+    given: Lawrence
+  container-title: 'Lawrence Weiner: As Far as the Eye Can See'
+  publisher: Whitney Museum of American Art
+  publisher-place: New York
+  original-date:
+    date-parts:
+    - - 1968
+  issued:
+    date-parts:
+    - - 2007
+- id: whitney2024
+  type: webpage
+  title: 'Holly Herndon and Mat Dryhurst: <span class="nocase">xhairymutantx</span>'
+  author:
+  - literal: Whitney Museum of American Art
+  container-title: Whitney artport
+  URL: https://whitney.org/exhibitions/xhairymutantx
+  issued:
+    date-parts:
+    - - 2024
+  accessed: *id001
+- id: whitneynd
+  type: webpage
+  title: Sol LeWitt wall drawing documentation
+  author:
+  - literal: Whitney Museum of American Art
+  issued:
+    literal: n.d.
+  accessed: *id001
+- id: young1960
+  type: chapter
+  title: 'Composition 1960 #10 to Bob Morris'
+  author:
+  - family: Young
+    given: La Monte
+  editor:
+  - family: Young
+    given: La Monte
+  - family: Mac Low
+    given: Jackson
+  container-title: An Anthology of Chance Operations
+  publisher-place: New York
+  original-date:
+    date-parts:
+    - - 1960
+  issued:
+    date-parts:
+    - - 1963
+- id: zylinska2020
+  type: book
+  title: 'AI Art: Machine Visions and Warped Dreams'
+  author:
+  - family: Zylinska
+    given: Joanna
+  publisher: Open Humanities Press
+  publisher-place: London
+  URL: http://www.openhumanitiespress.org/books/titles/ai-art/
+  issued:
+    date-parts:
+    - - 2020

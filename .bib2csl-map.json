@@ -1,0 +1,264 @@
+[
+ {
+  "id": "belting1994",
+  "families": [
+   "Belting"
+  ],
+  "authors_text": "Belting, H.",
+  "year": "1994",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "benjamin1936",
+  "families": [
+   "Benjamin"
+  ],
+  "authors_text": "Benjamin, W.",
+  "year": "1936",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "bourdieu1984",
+  "families": [
+   "Bourdieu"
+  ],
+  "authors_text": "Bourdieu, P.",
+  "year": "1984",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "bourdieu1996",
+  "families": [
+   "Bourdieu"
+  ],
+  "authors_text": "Bourdieu, P.",
+  "year": "1996",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "brecht1963",
+  "families": [
+   "Brecht"
+  ],
+  "authors_text": "Brecht, G.",
+  "year": "1963",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "cage1961",
+  "families": [
+   "Cage"
+  ],
+  "authors_text": "Cage, J.",
+  "year": "1961",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "cohen1995",
+  "families": [
+   "Cohen"
+  ],
+  "authors_text": "Cohen, H.",
+  "year": "1995",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "danto1981",
+  "families": [
+   "Danto"
+  ],
+  "authors_text": "Danto, A. C.",
+  "year": "1981",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "duve1996",
+  "families": [
+   "de Duve"
+  ],
+  "authors_text": "de Duve, T.",
+  "year": "1996",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "dickie1974",
+  "families": [
+   "Dickie"
+  ],
+  "authors_text": "Dickie, G.",
+  "year": "1974",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "el2025",
+  "families": [
+   "El País."
+  ],
+  "authors_text": "El País.",
+  "year": "2025",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "galanter2003",
+  "families": [
+   "Galanter"
+  ],
+  "authors_text": "Galanter, P.",
+  "year": "2003",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "gell1998",
+  "families": [
+   "Gell"
+  ],
+  "authors_text": "Gell, A.",
+  "year": "1998",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "greenberg1960",
+  "families": [
+   "Greenberg"
+  ],
+  "authors_text": "Greenberg, C.",
+  "year": "1960",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "herndon2024",
+  "families": [
+   "Herndon",
+   "Dryhurst"
+  ],
+  "authors_text": "Herndon, H., & Dryhurst, M.",
+  "year": "2024",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "krauss1986",
+  "families": [
+   "Krauss"
+  ],
+  "authors_text": "Krauss, R.",
+  "year": "1986",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "leroigourhan1964",
+  "families": [
+   "Leroi-Gourhan"
+  ],
+  "authors_text": "Leroi-Gourhan, A.",
+  "year": "1964",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "lewitt1967",
+  "families": [
+   "LeWitt"
+  ],
+  "authors_text": "LeWitt, S.",
+  "year": "1967",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "lewiswilliams2002",
+  "families": [
+   "Lewis-Williams"
+  ],
+  "authors_text": "Lewis-Williams, D.",
+  "year": "2002",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "manovich2018",
+  "families": [
+   "Manovich"
+  ],
+  "authors_text": "Manovich, L.",
+  "year": "2018",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "ono1964",
+  "families": [
+   "Ono"
+  ],
+  "authors_text": "Ono, Y.",
+  "year": "1964",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "serpentine2024",
+  "families": [
+   "Serpentine Galleries."
+  ],
+  "authors_text": "Serpentine Galleries.",
+  "year": "2024",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "sothebys2024",
+  "families": [
+   "Sotheby's."
+  ],
+  "authors_text": "Sotheby's.",
+  "year": "2024",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "strathern1988",
+  "families": [
+   "Strathern"
+  ],
+  "authors_text": "Strathern, M.",
+  "year": "1988",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "us2023",
+  "families": [
+   "U.S. Copyright Office."
+  ],
+  "authors_text": "U.S. Copyright Office.",
+  "year": "2023",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "vasari1568",
+  "families": [
+   "Vasari"
+  ],
+  "authors_text": "Vasari, G.",
+  "year": "1568",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "weiner1968",
+  "families": [
+   "Weiner"
+  ],
+  "authors_text": "Weiner, L.",
+  "year": "1968",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "young1960",
+  "families": [
+   "Young"
+  ],
+  "authors_text": "Young, La M.",
+  "year": "1960",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "zylinska2020",
+  "families": [
+   "Zylinska"
+  ],
+  "authors_text": "Zylinska, J.",
+  "year": "2020",
+  "status": "UNVERIFIED"
+ }
+]

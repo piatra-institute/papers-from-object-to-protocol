@@ -6,7 +6,7 @@ created: 2026-05
 date: May 2026
 paper_dir: paper
 has_simulation: false
-claims_target: none
+claims_target: claim-ledger
 repo: git@github.com:piatra-institute/papers-from-object-to-protocol.git
 github: https://github.com/piatra-institute/papers-from-object-to-protocol
 status: published

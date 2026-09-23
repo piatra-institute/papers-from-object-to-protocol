@@ -2,6 +2,16 @@
 
 Dated log of editorial passes and verification runs. Newest first.
 
+## 2026-09-23 — structured-evidence migration
+
+Structured-evidence migration (references and claims).
+- references.yaml: 36 CSL entries, all entered by hand (no legacy DOIs; Crossref matches for this bibliography were book reviews or unavailable). Two carry DOIs (bourdieu1996, strathern1988). Web sources retrieved 2026-09-23 (Whitney artport, Serpentine, Sotheby's auction page, El País, Federal Register, Art Blocks, fxhash, PromptBase); MoMA and SFMOMA pages refused automated retrieval and carry no URL.
+- Changes: El País article attributed to its author, Pablo G. Bejerano (id bejerano2025; citation now "(Bejerano 2025; PromptBase n.d.)"); LeWitt documentation entry split into sfmomand and whitneynd; vasari1550 added for the 1550 edition named in the text; Illuminations publisher Schocken -> Harcourt, Brace & World (1968 first edition); Whitney citation for xhairymutantx entered as whitney2024 (the legacy entry listed the artists as authors of the Whitney page). Benjamin, Greenberg, Weiner and Young carry original dates and render as "[1936] 1968" etc.
+- Citations added where legacy entries were uncited: Ono (suppress-author at "Grapefruit"), Young (the quoted score), MoMA (Fluxus documentation sentence), SFMOMA and Whitney (LeWitt documentation sentences), Weiner (Statement of Intent), Art Blocks and fxhash (documentation sentences), PromptBase (prompt-marketplace sentence).
+- claims.yaml: 16 claims (5 source, 4 definition, 4 interpretation, 1 assumption, 2 normative). Source claims checked against the retrieved documents: Copyright Office guidance on prompts and on selection/arrangement (Federal Register text), Whitney page on xhairymutantx, Serpentine page on The Call (fifteen choirs, Data Trust), El País on prompt volatility after Midjourney updates.
+- Not bound: the Botto sentence (Sotheby's page confirms the October 2024 sale but not the attribution to Klingemann, ElevenYellow and the BottoDAO); MoMA, SFMOMA and Whitney documentation statements (pages not retrievable); Art Blocks and fxhash documentation wording; Galanter's definition; book-length sources (Belting, Gell, Strathern, Bourdieu, Danto, Dickie, LeWitt, Cage, Cohen).
+- No simulation; metadata claims_target: none -> claim-ledger.
+
 ## 2026-09-23 — prose revision
 
 Prose revised against the house standards. Headings: Abstract; 1. Introduction; 2. Images before the autonomous object; 3. Formation of the object configuration; 4. Conceptual and score-based art; 5. Generative code art; 6. Latent score art; 7. Definition of a protocol; 8. Legal, market, and aesthetic consequences (8.1 Legal authorship; 8.2 Market structure; 8.3 Aesthetic ontology); 9. Limitations: opacity, substrate drift, and platform persistence; 10. Conclusion.

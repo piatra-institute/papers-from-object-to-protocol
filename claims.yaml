@@ -1,0 +1,129 @@
+schema: 1
+coverage: reviewed
+reviewed_manuscript_sha256: e2c6f652522249e8ed5b89b6cbf2479d8a7e24e71dfe3461c60446930d51f3cf
+claims:
+- id: uscopyright-prompts
+  kind: source
+  passage: The legal account of authorship is narrower than the art-historical one. The U.S. Copyright
+    Office [-@uscopyright2023] has held that prompts alone, without further human selection, arrangement,
+    and authorship, do not provide enough creative control to ground copyright.
+  evidence:
+    citation_id: uscopyright2023
+    locator: 88 FR 16190-16194, section III.B (printed pages 16192-16193)
+    verified: true
+    verification_note: 'Federal Register document 2023-05321 (88 FR 16190, 16 March 2023) retrieved from
+      federalregister.gov: the guidance states that users do not exercise ultimate creative control over
+      how systems interpret prompts, which function like instructions to a commissioned artist, and that
+      a human may select or arrange AI-generated material in a sufficiently creative way to support a
+      claim.'
+- id: uscopyright-selection
+  kind: source
+  passage: The Office also acknowledges that human selection, arrangement, editing, and incorporation
+    of one's own material can ground protectable authorship in the resulting work.
+  evidence:
+    citation_id: uscopyright2023
+    locator: 88 FR 16192-16193
+    verified: true
+    verification_note: 'Same Federal Register text: human selection or arrangement of AI-generated material,
+      and modification of AI-generated material, can support copyright in the resulting work.'
+- id: whitney-xhairymutantx
+  kind: source
+  passage: Holly Herndon and Mat Dryhurst's *xhairymutantx* (2024), commissioned for the Whitney Biennial
+    and hosted on the Whitney's artport, is a text-to-image model fine-tuned on deliberately distorted
+    portraits of Herndon.
+  evidence:
+    citation_id: whitney2024
+    locator: Exhibition page, whitney.org/exhibitions/xhairymutantx
+    verified: true
+    verification_note: 'Whitney page retrieved 2026-09-23: commissioned for the 2024 Whitney Biennial,
+      shown in the sixth-floor gallery and on artport; the artists trained a text-to-image model on images
+      of Holly Herndon altered by costuming that distorts her body and hair; visitors prompt the model.'
+- id: serpentine-the-call
+  kind: source
+  passage: The same artists' *The Call* (Serpentine, 2024 to 2025) trains choral AI models on recordings
+    from fifteen United Kingdom community choirs, presents the training protocols and collectively created
+    materials as the artefacts, and binds the work to a Data Trust that distributes rights between choir
+    contributors and model users; governance is part of the work itself [@serpentine2024].
+  evidence:
+    citation_id: serpentine2024
+    locator: Exhibition page, serpentinegalleries.org
+    verified: true
+    verification_note: 'Serpentine page retrieved 2026-09-23: Serpentine North, 4 October 2024 - 2 February
+      2025; the artists recorded fifteen community choirs across the UK to train choral AI models, and
+      the choristers are part of a Data Trust experiment distributing power between training-data contributors
+      and model users.'
+- id: elpais-volatility
+  kind: source
+  passage: 'Reports of volatility in prompt marketplaces [@bejerano2025; @promptbasend] show the consequence:
+    if the work is a prompt sold for use with a specific commercial model, model updates can erode its
+    value without warning.'
+  evidence:
+    citation_id: bejerano2025
+    locator: El País, 8 April 2025
+    verified: true
+    verification_note: 'Article by Pablo G. Bejerano retrieved from elpais.com: a prompt seller describes
+      volatility, where a Midjourney update that improves natural-language handling makes previously sold
+      prompts worthless and buyers stop purchasing them.'
+- id: def-specification
+  kind: definition
+  passage: By *specification* we mean a rule-bound description of how to produce or select admissible
+    realizations.
+  rationale: Stipulative definition of specification used throughout the genealogy.
+- id: def-latent-score
+  kind: definition
+  passage: We call this form *latent score art*.
+  rationale: 'Names the third migration: a model-mediated executable package of prompt, references, model
+    recommendation, seeds, edition rules and license.'
+- id: def-protocol
+  kind: definition
+  passage: 'A *protocol*, in the sense used here, is a rule-bound specification with five properties:'
+  rationale: 'Central definition: substrate-relative, bounded, transferable, editioned, governed. Stipulative;
+    the paper tests it by applying it to Cage and LeWitt.'
+- id: def-narrower
+  kind: definition
+  passage: Latent score art denotes works whose identity is the executable specification and whose rendered
+    output is acknowledged by artist and collector as one realization in a population.
+  rationale: Restricts latent score art to works whose executable specification is the acknowledged work,
+    excluding static AI images sold as objects.
+- id: interp-emerging
+  kind: interpretation
+  passage: We therefore treat the third migration as an *emerging* category, evidenced by a small number
+    of verifiable works in which the generative system or trained model, and no single rendered output,
+    is the exhibited and acknowledged artwork.
+  rationale: 'States the evidential weight of the third migration: three verifiable works and two hypothetical
+    cases, against the large conserved inventory of the first two migrations.'
+- id: interp-object-local
+  kind: interpretation
+  passage: Against these regimes the modern object intuition appears local.
+  rationale: Interpretive reading of the premodern record summarised in section 2, drawing on Belting,
+    Gell and Strathern.
+- id: interp-migration-adds
+  kind: interpretation
+  passage: Each migration added one or more of these properties.
+  rationale: Genealogical thesis mapping the protocol properties onto historical migrations; an argument
+    from the cases, not a measured result.
+- id: interp-hypothetical
+  kind: assumption
+  passage: Two hypothetical cases make the strict package form concrete; neither is presented as an existing
+    work.
+  rationale: Flags the world-generation kit and music protocol as constructed examples with no evidential
+    weight.
+- id: interp-authorship
+  kind: normative
+  passage: A legal frame that recognises the first and fourth (the artist's protocol and the licensee's
+    selections) and treats the second and third as instruments is workable, and it is closer to the art-historical
+    account than a frame that treats the rendered image as authorless because no one held a brush.
+  rationale: Normative proposal about how a legal frame should allocate authorship; the paper argues for
+    its workability and does not claim it is current law.
+- id: interp-open-weights
+  kind: normative
+  passage: Where the work's identity is meant to be the protocol, aesthetic and ethical considerations
+    favour open-weight models.
+  rationale: Normative recommendation following from the opacity and drift arguments of sections 6 and
+    9.
+- id: interp-exception
+  kind: interpretation
+  passage: On the genealogy traced here, this is the more common historical condition of art, and the
+    object configuration of the past two centuries is the exception.
+  rationale: Concluding interpretation of the genealogy; its scope is limited by the evidence discussed
+    in sections 2-6.

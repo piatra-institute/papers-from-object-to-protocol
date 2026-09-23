@@ -1,10 +1,10 @@
 {
-  "manuscript_sha256": "ab6e5c1149af920091c481c9a09e479808a835b6ae790627dbab966b3380a4fe",
+  "manuscript_sha256": "e2c6f652522249e8ed5b89b6cbf2479d8a7e24e71dfe3461c60446930d51f3cf",
   "full_read": true,
   "argument_review": true,
   "structure_review": true,
   "voice_review": true,
   "source_review": true,
   "final_read": true,
-  "notes": "Prose revision: descriptive headings; abstract rewritten (259 words, previously about 430); self-reference, reference to the unpublished research survey, 'rather than' and inline contrasts removed; institute's own studio project replaced by a hypothetical world-generation kit; misattributed instruction score corrected; ten previously uncited bibliography entries now cited where they support the text; closing epigrams rewritten as declaratives."
+  "notes": "Structured-evidence migration: inline bibliography converted to references.yaml (CSL) with Pandoc [@id] citations; claims.yaml ledger added; prose unchanged apart from citation syntax and citations added at the sentences that draw on previously uncited reference entries."
 }
